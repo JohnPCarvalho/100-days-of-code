@@ -28,3 +28,6 @@ I think the secret is going slow but steady.
 
 ### R1D8
 Studied a little bit more of OOP and a bit of Ruby story. Also checked some cool Ruby open source projects that I may contribute in the future!
+
+### R1D9
+I'm a little bit sick. Revised OOP concepts for half an hour and now I'm going to rest. Hope to be better tomorrow.
