@@ -37,3 +37,6 @@ Just completed my 10th day of #100DaysOfCode! (R1D10)
 I did some OOP exercises and read the Ruby Style Guide to get used with good Ruby code.
 It is an acomplishment to me to be able to do this for 10 days. I hope that I can finish the 100 days!
 
+### R1D11
+Day 11 of #100DaysOfCode! (R1D11)
+Just started my Tic Tac Toe game programming in ruby. Exercising all that I learned in the past three days!
