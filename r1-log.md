@@ -40,3 +40,7 @@ It is an acomplishment to me to be able to do this for 10 days. I hope that I ca
 ### R1D11
 Day 11 of #100DaysOfCode! (R1D11)
 Just started my Tic Tac Toe game programming in ruby. Exercising all that I learned in the past three days!
+
+### R1D12
+My 12th day of #100DaysOfCode (R1D12) was a bit different. I got influenza, so I could not work during this afternoon. I coded some tests for my work now. Learned how to use VCR cassettes. Pretty fun!
+Hope I get get through the end...
