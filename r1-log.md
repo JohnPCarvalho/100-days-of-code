@@ -44,3 +44,6 @@ Just started my Tic Tac Toe game programming in ruby. Exercising all that I lear
 ### R1D12
 My 12th day of #100DaysOfCode (R1D12) was a bit different. I got influenza, so I could not work during this afternoon. I coded some tests for my work now. Learned how to use VCR cassettes. Pretty fun!
 Hope I get get through the end...
+
+### R1D13
+Continued to code my Tic-Tac-Toe game in Ruby. Feeling that I'm getting a little bit better!
